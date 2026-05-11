@@ -31,7 +31,7 @@ Settings → Privacy → Delete all data. This wipes the local database and rese
 
 ## Privacy & data
 
-[Privacy policy](/good-minton-support/privacy/) — what data is collected, how it's used, how to opt out of analytics.
+[Privacy policy](/goodminton-support/privacy/) — what data is collected, how it's used, how to opt out of analytics.
 
 ## Contact
 
